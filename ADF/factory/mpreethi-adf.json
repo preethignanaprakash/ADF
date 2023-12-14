@@ -1,0 +1,9 @@
+{
+	"name": "mpreethi-adf",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2aafaaed-68c6-4ac0-943b-c0459f9e54a6",
+		"tenantId": "46c98d88-e344-4ed4-8496-4ed7712e255d"
+	}
+}
